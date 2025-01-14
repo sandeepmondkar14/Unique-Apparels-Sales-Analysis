@@ -4,13 +4,8 @@
 This project involves building a sales data mart for Unique Apparels and developing an interactive Power BI dashboard to analyze sales performance and trends.
 
 ## Project Files
-- `unique_apparels_erd.png`: Entity-Relationship Diagram (ERD) of the data mart.
-- `UniqueApparelsDashboard.pbix`: Power BI dashboard file.
-
-## Steps to Recreate the Project
-1. **Set Up Data:** Use Power Query and Power Pivot to load and transform the dataset. Follow the design of the dimension and fact tables as shown in the ERD diagram.
-
-2. **Power BI Dashboard:** Open `UniqueApparelsDashboard.pbix` in Power BI Desktop and interact with the dashboard to explore the sales data.
+- `unique_apparels_ERD_diagram.png`: Entity-Relationship Diagram (ERD) of the data mart.
+- `UniqueApparels.pbix`: Power BI dashboard file.
 
 ## Key Metrics
 - **Total Sales**: Sum of all sales transactions.
