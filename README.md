@@ -5,7 +5,7 @@ This project involves building a sales data mart for Unique Apparels and develop
 
 ## Project Files
 - `unique apparels ERD diagram.png`: Entity-Relationship Diagram (ERD) of the data mart.
-- `UniqueApparels.pbix`: Power BI dashboard file.
+- `unique apparels.pbix`: Power BI dashboard file.
 
 ## Key Metrics
 - **Total Sales**: Sum of all sales transactions.
