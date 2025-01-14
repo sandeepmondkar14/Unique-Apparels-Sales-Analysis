@@ -37,9 +37,6 @@ This project involves building a sales data mart for Unique Apparels and develop
 7. **Top 5 Products by Quantity Sold Table:** Products like Basic Cotton Tee and Classic Wool Coat.
 8. **Top 5 Profitable Products Table:** Products like Skinny Jeans and Gloves.
 
-## Challenges
-Ensuring data integrity while loading and transforming data using Power Query and Power Pivot was a significant challenge I overcame.
-
 ## Conclusion
 
 ### Key Findings
